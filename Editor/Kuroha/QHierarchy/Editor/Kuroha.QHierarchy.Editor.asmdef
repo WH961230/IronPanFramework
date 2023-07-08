@@ -1,0 +1,18 @@
+{
+    "name": "Kuroha.QHierarchy.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f4a51cd671fabc46aa42056a81e5e6c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

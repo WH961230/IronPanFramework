@@ -1,0 +1,25 @@
+{
+    "name": "Evoreek.RunTime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:ed9f9ec7e52347048955024b35096926",
+        "GUID:2bb5559e882558a48b013f53897c9dd6",
+        "GUID:690b7fd7cddd5bb4a9f6778ccf1022f7",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

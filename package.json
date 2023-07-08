@@ -1,0 +1,19 @@
+{
+  "name": "com.ek.ironpanframework",
+  "version": "1.0.1",
+  "displayName": "Iron Pan Framework",
+  "description": "Use an  Iron Pan Framework to make the game easier!",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Evoreek",
+    "email": "example@unity.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
